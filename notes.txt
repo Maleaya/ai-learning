@@ -1,2 +1,3 @@
 I am learning Git and AI
 I pushed my first project to GitHub 🎉
+This is a new feature branch ✨
